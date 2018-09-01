@@ -1,0 +1,3 @@
+recipes.removeShaped(<mysticalagriculture:mystical_fertilizer>);
+
+recipes.addShaped(<mysticalagriculture:mystical_fertilizer>*10,[[<mysticalagriculture:fertilized_essence>,<mysticalagriculture:crafting>,<mysticalagriculture:fertilized_essence>],[<mysticalagriculture:crafting>,<ore:gemDiamond>,<mysticalagriculture:crafting>],[<mysticalagriculture:fertilized_essence>,<mysticalagriculture:crafting>,<mysticalagriculture:fertilized_essence>]]);

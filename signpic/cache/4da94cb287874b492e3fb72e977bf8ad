@@ -1,0 +1,2534 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-Z0JAar9+DkI1NjGVdZr3GivARUgJtA0o2eHlTv7Ou2gshR5awWVf8QGsq11Ns9ZxQLEs+G5/SuARmvpOLMzulw==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-95aff0b550d3fe338b645a4deebdcb1b.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-MfR1jVOd2lhEj2Lu+00k0KV9KkjZ4Y299CH2RrtFfKdMIU5k92o5huQ0PESt6tNMZ4AWa1JJ+aI018EEnY3lZg==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-de92aa7f3d308cf0b1abfcf91bcb5c36.css" />
+  
+  
+  <link crossorigin="anonymous" media="all" integrity="sha512-3VvsUZwbHQjJSGBl1RmFALkUCIN/X1T+tMENn2GWBoffnwhvTzybuwM+WJiOaH6+ROjTtIg0N3AnqAjlDG24uw==" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-4bf0d1fbb978ff70da23996d7eac3d93.css" />
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Issues · AgriCraft/AgriCraft · GitHub</title>
+    <meta name="description" content="The source code for the Minecraft mod: AgriCraft. Contribute to AgriCraft/AgriCraft development by creating an account on GitHub.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/18352825?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="AgriCraft/AgriCraft" /><meta property="og:url" content="https://github.com/AgriCraft/AgriCraft" /><meta property="og:description" content="The source code for the Minecraft mod: AgriCraft. Contribute to AgriCraft/AgriCraft development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  
+  <meta name="pjax-timeout" content="1000">
+  
+  <meta name="request-id" content="CE63:3750:2BCE807:5A0FD70:5B86AB2C" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_issues" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CE63:3750:2BCE807:5A0FD70:5B86AB2C" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="analytics-location-query-strip" content="true" data-pjax-transient="true" /><meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/issues/index" data-pjax-transient="true" />
+
+
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="ZjJmNjk4ZjBhMGIzZWY4ODhkMDA2NDBjNDBiNjQzZTkxMjg1Y2I5ODIxYzZkNTc3MTkyNjZiNThhMGU1NWFkZXx7InJlbW90ZV9hZGRyZXNzIjoiMTk0LjYwLjI0NS4xNzUiLCJyZXF1ZXN0X2lkIjoiQ0U2MzozNzUwOjJCQ0U4MDc6NUEwRkQ3MDo1Qjg2QUIyQyIsInRpbWVzdGFtcCI6MTUzNTU1MjMwNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+
+    <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_PLAN_RESTRICTION_EDITOR,MARKETPLACE_SEARCH,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
+
+  <meta name="html-safe-nonce" content="e2b9397a85f635588a1922e9569f9f1edfea6d9a">
+
+  <meta http-equiv="x-pjax-version" content="d03c66d2b6bbbe49b73604266d624849">
+  
+
+      <link href="https://github.com/AgriCraft/AgriCraft/commits/master.atom" rel="alternate" title="Recent Commits to AgriCraft:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/AgriCraft/AgriCraft git https://github.com/AgriCraft/AgriCraft.git">
+
+  <meta name="octolytics-dimension-user_id" content="18352825" /><meta name="octolytics-dimension-user_login" content="AgriCraft" /><meta name="octolytics-dimension-repository_id" content="26712042" /><meta name="octolytics-dimension-repository_nwo" content="AgriCraft/AgriCraft" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="26712042" /><meta name="octolytics-dimension-repository_network_root_nwo" content="AgriCraft/AgriCraft" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+
+  <header class="Header header-logged-out  position-relative f4 py-3" role="banner" data-ga-load="(Logged out) Header, view, experiment:site_header_dropdowns; group:dropdowns">
+    <div class="container-lg d-flex px-3">
+      <div class="d-flex flex-justify-between flex-items-center">
+          <a class="mr-5" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark; experiment:site_header_dropdowns; group:dropdowns">
+            <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+          </a>
+      </div>
+
+      <div class="HeaderMenu HeaderMenu--experiment d-flex flex-justify-between flex-items-center flex-auto">
+        <div class="d-none">
+          <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+            <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+          </button>
+        </div>
+
+          <nav class="">
+            <ul class="d-flex list-style-none">
+                <li class="HeaderMenu-item dropdown mr-5">
+                  <details class="details-expanded details-reset js-dropdown-details ">
+                    <summary class="HeaderMenu-target text-white">
+                      <div class="d-flex flex-items-baseline flex-justify-between">
+                        <span class="d-inline-block mr-1">Features</span>
+                        <span class="dropdown-caret"></span>
+                      </div>
+                    </summary>
+                    <div class="dropdown-menu dropdown-menu-s p-4 ml-n4 mt-3 mt-lg-2">
+                      <a href="/features" class="d-block d-lg-flex flex-items-center flex-justify-between f5 link-gray-dark text-bold mb-2" data-ga-click="(Logged out) Header, go to Features, experiment:site_header_dropdowns; group:dropdowns"><span>Features overview</span> <svg height="16" class="octicon octicon-chevron-right text-gray-dark" viewBox="0 0 8 16" version="1.1" width="8" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"/></svg></a>
+                      <hr class="border border-dashed my-3 d-none d-lg-block">
+                      <ul class="list-style-none f5">
+                        <li class="mb-2"><a href="/features/code-review/" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Code review, experiment:site_header_dropdowns; group:dropdowns">Code review</a></li>
+                        <li class="mb-2"><a href="/features/project-management/" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Project management, experiment:site_header_dropdowns; group:dropdowns">Project management</a></li>
+                        <li class="mb-2"><a href="/features/integrations" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Integrations, experiment:site_header_dropdowns; group:dropdowns">Integrations</a></li>
+                        <li class="mb-2"><a href="/features#team-management" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Team management, experiment:site_header_dropdowns; group:dropdowns">Team management</a></li>
+                        <li class="mb-2"><a href="/features#social-coding" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Social coding, experiment:site_header_dropdowns; group:dropdowns">Social coding</a></li>
+                        <li class="mb-2"><a href="/features#documentation" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Documentation, experiment:site_header_dropdowns; group:dropdowns">Documentation</a></li>
+                        <li class="mb-2"><a href="/features#code-hosting" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Code hosting, experiment:site_header_dropdowns; group:dropdowns">Code hosting</a></li>
+                      </ul>
+                    </div>
+                  </details>
+                </li>
+                <li class="HeaderMenu-item dropdown platform-nav mr-5">
+                  <details class="details-expanded details-reset js-dropdown-details ">
+                    <summary class="HeaderMenu-target text-white">
+                      <div class="d-flex flex-items-baseline flex-justify-between">
+                        <span class="d-inline-block mr-1">Platform</span>
+                        <span class="dropdown-caret"></span>
+                      </div>
+                    </summary>
+                    <div class="dropdown-menu dropdown-menu-s p-4 ml-n4 mt-3 mt-lg-2">
+                      <div class="d-flex gutter-spacious ">
+                        <div class="position-relative col-8">
+                          <dl class="my-0">
+                            <a href="/marketplace" class="d-flex mb-3 link-gray-dark no-underline" data-ga-click="(Logged out) Header, go to Marketplace, experiment:site_header_dropdowns; group:dropdowns">
+                              <div class="mr-3">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.92 56.98" class="d-block" width="34"><title>Asset 1</title><g data-name="Layer 2"><path d="M6.18 57H1a1 1 0 0 1 0-2h5.18a1 1 0 0 1 0 2zM69.92 57h-5.18a1 1 0 1 1 0-2h5.18a1 1 0 0 1 0 2z" fill="#2088ff"></path><path d="M29.67 56.47a1 1 0 0 1-1-1V34.84H16v20.23a1 1 0 0 1-2 0V33.84a1 1 0 0 1 1-1h14.67a1 1 0 0 1 1 1v21.63a1 1 0 0 1-1 1z" fill="#79b8ff"></path><path d="M64.74 57H6.18a1 1 0 0 1-1-1v-8.65a1 1 0 0 1 2 0V55h56.56V33.84a1 1 0 0 1 2 0V56a1 1 0 0 1-1 1zM6.18 41.24a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1h58.58a1 1 0 0 1 1 1v10.52a1 1 0 1 1-2 0V2H7.18v38.24a1 1 0 0 1-1 1z" fill="#2088ff"></path><path d="M56.82 45.94H36.34a1 1 0 0 1-1-1v-11.1a1 1 0 0 1 1-1h20.48a1 1 0 0 1 1 1v11.1a1 1 0 0 1-1 1zm-19.48-2h18.48v-9.1H37.34z" fill="#79b8ff"></path><path d="M31.55 27.5a7.84 7.84 0 0 1-5.21-2.42c-1.06-1-11.87-9.74-12-9.83a1 1 0 0 1 .66-1.78h43.66a1 1 0 0 1 .64.24l11.26 9.48a1 1 0 0 1-1.29 1.53l-11-9.25H17.81c3.26 2.65 9.08 7.4 9.88 8.12a6 6 0 0 0 3.87 1.9 3.3 3.3 0 0 0 3-1.95 1 1 0 1 1 1.82.82 5.3 5.3 0 0 1-4.83 3.14z" fill="#2088ff"></path><path d="M40.24 27.5a5.26 5.26 0 0 1-1.86-.34 1 1 0 0 1 .71-1.87 3.26 3.26 0 0 0 1.16.21 3.3 3.3 0 0 0 3-1.95 1 1 0 1 1 1.82.82 5.3 5.3 0 0 1-4.83 3.13zM48.82 27.5a5.26 5.26 0 0 1-1.82-.34 1 1 0 0 1 .71-1.87 3.26 3.26 0 0 0 1.16.21 3.3 3.3 0 0 0 3-1.95 1 1 0 1 1 1.82.82 5.3 5.3 0 0 1-4.87 3.13zM57.41 27.5a5.26 5.26 0 0 1-1.86-.34 1 1 0 0 1 .71-1.87 3.26 3.26 0 0 0 1.16.21 3.3 3.3 0 0 0 3-1.95 1 1 0 1 1 1.82.82 5.3 5.3 0 0 1-4.83 3.13zM66 27.5a5.26 5.26 0 0 1-1.86-.34 1 1 0 0 1 .71-1.87 3.26 3.26 0 0 0 1.15.21 3.3 3.3 0 0 0 3-2 1 1 0 0 1 1.82.82A5.31 5.31 0 0 1 66 27.5zM15 27.22a1 1 0 0 1-1-1V14.71a1 1 0 0 1 2 0v11.51a1 1 0 0 1-1 1z" fill="#2088ff"></path><path d="M44.16 25a1 1 0 0 1-.65-.24L38.07 20a1 1 0 0 1 1.3-1.52l5.43 4.67a1 1 0 0 1-.64 1.85zM35.52 25a1 1 0 0 1-.65-.24L29.44 20a1 1 0 0 1 1.3-1.52l5.43 4.67a1 1 0 0 1-.65 1.85zM52.74 25a1 1 0 0 1-.65-.24L46.66 20A1 1 0 0 1 48 18.53l5.43 4.67a1 1 0 0 1-.69 1.8zM61.33 25a1 1 0 0 1-.65-.24L55.25 20a1 1 0 0 1 1.3-1.52L62 23.2a1 1 0 0 1-.67 1.8zM22.23 8.42H6.51a1 1 0 0 1 0-2h15.72a1 1 0 0 1 0 2zM64.76 8.42H58.4a1 1 0 0 1 0-2h6.36a1 1 0 0 1 0 2z" fill="#2088ff"></path><path d="M46.58 45.72a1 1 0 0 1-1-1V34.1a1 1 0 0 1 2 0v10.62a1 1 0 0 1-1 1z" fill="#79b8ff"></path></g></svg>
+
+                              </div>
+                              <div>
+                                <dt class="f4">Marketplace</dt>
+                                <dd class="f6 text-gray">Find developer tools that work with GitHub</dd>
+                              </div>
+                            </a>
+                            <a href="https://developer.github.com" class="d-flex mb-3 link-gray-dark no-underline" data-ga-click="(Logged out) Header, go to Developers, experiment:site_header_dropdowns; group:dropdowns">
+                              <div class="mr-3">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61.23 60.12" class="d-block" width="34"><title>Asset 1</title><g data-name="Layer 2"><path fill="none" stroke="#79b8ff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M14.75 13.22H3.52M18.02 6.33H6.54"></path><path fill="none" stroke="#2088ff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M56.96 51.89H45.73M60.23 44.99H48.75"></path><circle cx="22.5" cy="37.62" r="7.48" transform="rotate(-45 22.502 37.62)" fill="none" stroke="#2088ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle><path d="M36.72 29.79l1.35 3.4 5.93 2V40l-5.92 2.08-1.44 3.39 2.83 5.58L36 54.54l-5.66-2.7L27 53.22l-2 5.9h-4.89L18 53.18l-3.36-1.4L9 54.58 5.58 51.1l2.7-5.66-1.38-3.37-5.9-2v-4.89l5.92-2.08 1.44-3.39-2.82-5.57L9 20.69l5.66 2.7L18 22l2-5.9h4.89L27 22l3.36 1.4L36 20.66l3.45 3.48z" fill="none" stroke="#2088ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="M7.22 22.48L9 20.69l5.66 2.7L18 22l2-5.9h4.89L27 22l3.36 1.4L36 20.66l3.45 3.48-2.7 5.66 1.35 3.4 5.93 2L44 40l-5.92 2.08-1.44 3.39 2.83 5.58-1.83 1.82" fill="none" stroke="#2088ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".1"></path><path d="M37.22 14.11a6.05 6.05 0 1 1 8.56 8.56M30.07 12l-2.29-4.51 2.81-2.79 4.58 2.19 2.72-1.12L39.5 1h4l1.64 4.8 2.71 1.14 4.54-2.26 2.79 2.81L53 12.06l1.09 2.75 4.8 1.58v4L54.09 22l-1.16 2.74 2.29 4.51-2.82 2.83-4.58-2.19" fill="none" stroke="#79b8ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="M29.14 6.14l1.45-1.44 4.58 2.19 2.72-1.12L39.5 1h4l1.64 4.8 2.71 1.14 4.54-2.26 2.79 2.81L53 12.06l1.09 2.75 4.8 1.58v4L54.09 22l-1.16 2.74 2.29 4.51-1.48 1.47" fill="none" stroke="#79b8ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity=".1"></path></g></svg>
+
+                              </div>
+                              <div>
+                                <dt class="f4">GitHub API</dt>
+                                <dd class="f6 text-gray">Start building on the GitHub platform</dd>
+                              </div>
+                            </a>
+                            <a href="https://partner.github.com/?source=github-header-loggedout&experiment=site_header_dropdowns&group=dropdowns" class="d-flex mb-3 link-gray-dark no-underline" data-ga-click="(Logged out) Header, go to Partner program, experiment:site_header_dropdowns; group:dropdowns">
+                              <div class="mr-3">
+                                <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 37 23" style="enable-background:new 0 0 37 23;" xml:space="preserve" class="d-block" width="34">
+<style type="text/css">
+	.st0{fill:none;stroke:#79B8FF;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#2088FF;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<path class="st0" d="M6,1l4.5,1.4L5.3,15.2L1,12.9L6,1z"></path>
+<path class="st1" d="M30.9,1.2L36,12.8l-3.9,2.6l-5.2-13L30.9,1.2z"></path>
+<path class="st1" d="M5.2,11.7c0-0.6-0.5-1-1-1c-0.6,0-1,0.5-1,1c0,0.6,0.5,1,1,1"></path>
+<path class="st0" d="M29.7,4.6c0.4,0,0.8-0.3,0.8-0.8v0c0-0.4-0.3-0.8-0.8-0.8h0c-0.4,0-0.8,0.3-0.8,0.8v0C29,4.3,29.3,4.6,29.7,4.6  L29.7,4.6z"></path>
+<path class="st0" d="M6.2,13.4c0,0,2.4,0.8,3.9,2.3L6.2,13.4z M9.6,4.8c0,0,4.3,2.3,6.9,2.8L9.6,4.8z"></path>
+<path class="st1" d="M30.4,11.5l-3.2,2.6"></path>
+<path class="st0" d="M19.7,9l8.7,6.2c0.4,0.3,1.1,1.2,0.4,2.2c-0.7,0.9-1.5,0.2-1.5,0.2l-6-4.2"></path>
+<path class="st1" d="M27.5,4.8c0,0-2,1.6-3.3,1.4c-1.3-0.2-4.7-0.9-4.7-0.9c-0.7,0.8-3.7,3.5-4.6,3.6c0,0-0.2,1.5,1.6,1.3  c1.7-0.2,2.7-0.9,3.7-1.7"></path>
+<path class="st0" d="M24.6,18.9c0,0,0.2,0.9-0.2,1.4c-0.2,0.3-0.7,0.6-1.3,0.3l-3.7-2.5L24.6,18.9z M27.1,17.6c0,0,0.1,0.9-0.5,1.4  c-0.3,0.3-0.8,0.6-1.5,0.3l-5.9-4.3L27.1,17.6z"></path>
+<path class="st0" d="M22.4,20.1c0,0,0,0.6-0.2,1.1c-0.2,0.3-0.4,0.6-1.1,0.4l-2.8-1.9"></path>
+<path class="st1" d="M17.8,17c0.3-0.3,1.6-0.2,1.4,1c-0.3,1.2-1.7,2.4-2.1,2.6c-0.4,0.2-1.4,0.2-1.4-0.7L17.8,17z M14.3,14.6  c0,0-0.7-1.5-1.5-1.2c-0.8,0.3-2.8,2-2.8,2.7c0,0.7,1,1.5,1.9,0.8L14.3,14.6z"></path>
+<path class="st1" d="M16.1,15.8c0.2-0.3,1.8-0.4,1.5,1.1c-0.3,1.4-2.1,2.7-2.4,2.9c-0.3,0.1-1.7,0.3-1.9-0.9"></path>
+<path class="st1" d="M15.9,16.1c0,0,0.5-0.9-0.1-1.5c-0.6-0.6-1.2-0.2-1.6,0.2c-0.3,0.3-2.9,2.8-2.9,2.8s0.5,1.8,1.7,1.3  C14.2,18.5,15.9,16.1,15.9,16.1z"></path>
+</svg>
+
+                              </div>
+                              <div>
+                                <dt class="f4">Partner program</dt>
+                                <dd class="f6 text-gray">Help millions of developers do their best work</dd>
+                              </div>
+                            </a>
+                          </dl>
+                          <div class="d-none d-lg-block border-left position-absolute top-0 right-0 bottom-0"></div>
+                        </div>
+                        <div class="col-4">
+                          <strong class="d-block f5 text-bold mb-2 text-gray-dark">Apps by GitHub</strong>
+                          <ul class="list-style-none f5">
+                            <li class="mb-2"><a href="https://desktop.github.com/" class="link-gray" data-ga-click="(Logged out) Header, go to Desktop, experiment:site_header_dropdowns; group:dropdowns">Desktop <span style="color: #959da5;">&#8599;</span></a></li>
+                            <li class="mb-2"><a href="https://atom.io/" class="link-gray" data-ga-click="(Logged out) Header, go to Atom, experiment:site_header_dropdowns; group:dropdowns">Atom <span style="color: #959da5;">&#8599;</span></a></li>
+                            <li class="mb-2"><a href="https://visualstudio.github.com/" class="link-gray" data-ga-click="(Logged out) Header, go to Visual Studio, experiment:site_header_dropdowns; group:dropdowns">Visual Studio <span style="color: #959da5;">&#8599;</span></a></li>
+                            <li class="mb-2"><a href="https://unity.github.com/" class="link-gray" data-ga-click="(Logged out) Header, go to Unity Extension, experiment:site_header_dropdowns; group:dropdowns">Unity Extension <span style="color: #959da5;">&#8599;</span></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </details>
+                </li>
+                <li class="HeaderMenu-item dropdown mr-5">
+                  <details class="details-expanded details-reset js-dropdown-details ">
+                    <summary class="HeaderMenu-target text-white">
+                      <div class="d-flex flex-items-baseline flex-justify-between">
+                        <span class="d-inline-block mr-1">Business</span>
+                        <span class="dropdown-caret"></span>
+                      </div>
+                    </summary>
+                    <div class="dropdown-menu dropdown-menu-s p-4 ml-n4 mt-3 mt-lg-2">
+                      <a href="/business" class="d-block d-lg-flex flex-items-center flex-justify-between f5 link-gray-dark text-bold mb-2" data-ga-click="(Logged out) Header, go to Business, experiment:site_header_dropdowns; group:dropdowns"><span>Business overview</span> <svg height="16" class="octicon octicon-chevron-right text-gray-dark" viewBox="0 0 8 16" version="1.1" width="8" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"/></svg></a>
+                      <hr class="border border-dashed my-3 d-none d-lg-block">
+                      <ul class="list-style-none f5">
+                        <li class="mb-2"><a href="/business/customers" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Customers, experiment:site_header_dropdowns; group:dropdowns">Customers</a></li>
+                        <li class="mb-2"><a href="/business/security" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Security, experiment:site_header_dropdowns; group:dropdowns">Security</a></li>
+                        <li class="mb-2"><a href="https://enterprise.github.com/contact" class="d-block link-gray" data-ga-click="(Logged out) Header, go to Contact, experiment:site_header_dropdowns; group:dropdowns">Contact</a></li>
+                      </ul>
+                    </div>
+                  </details>
+                </li>
+
+                <li class="HeaderMenu-item dropdown mr-5">
+                  <details class="details-expanded details-reset js-dropdown-details ">
+                    <summary class="HeaderMenu-target text-white">
+                      <div class="d-flex flex-items-baseline flex-justify-between">
+                        <span class="d-inline-block mr-1">Explore</span>
+                        <span class="dropdown-caret"></span>
+                      </div>
+                    </summary>
+                    <div class="dropdown-menu dropdown-menu-s p-4 ml-n4 mt-3 mt-lg-2">
+                      <ul class="list-style-none f5">
+                        <li class="mb-2"><a href="/explore" class="d-lg-flex flex-items-center flex-justify-between link-gray-dark text-bold" data-ga-click="(Logged out) Header, go to Explore GitHub, experiment:site_header_dropdowns; group:dropdowns"><span>Explore GitHub</span> <svg height="16" class="octicon octicon-chevron-right text-gray-dark" viewBox="0 0 8 16" version="1.1" width="8" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"/></svg></a></li>
+                        <li class="mb-3"><a href="/trending" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Trending, experiment:site_header_dropdowns; group:dropdowns">Trending</a></li>
+                      </ul>
+
+                      <hr class="border border-dashed my-3 d-none d-lg-block">
+
+                      <strong class="d-block f5 text-bold mb-2 text-gray-dark">Learn</strong>
+                      <ul class="list-style-none f5">
+                        <li class="mb-2"><a href="/topics" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Topics, experiment:site_header_dropdowns; group:dropdowns">Topics</a></li>
+                        <li class="mb-2"><a href="/collections" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Collections, experiment:site_header_dropdowns; group:dropdowns">Collections</a></li>
+                        <li class="mb-2"><a href="https://lab.github.com/" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Learning Lab, experiment:site_header_dropdowns; group:dropdowns">Learning Lab <span style="color: #959da5;">&#8599;</span></a></li>
+                        <li class="mb-3"><a href="https://opensource.guide/" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Open source guides, experiment:site_header_dropdowns; group:dropdowns">Open source guides <span style="color: #959da5;">&#8599;</span></a></li>
+                      </ul>
+
+                      <hr class="border border-dashed my-3 d-none d-lg-block">
+
+                      <strong class="d-block f5 text-bold mb-2 text-gray-dark">Connect</strong>
+                      <ul class="list-style-none f5">
+                        <li class="mb-2"><a href="/events" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Events, experiment:site_header_dropdowns; group:dropdowns">Events</a></li>
+                        <li class="mb-2"><a href="https://github.community/" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Community forum, experiment:site_header_dropdowns; group:dropdowns">Community forum <span style="color: #959da5;">&#8599;</span></a></li>
+                        <li class="mb-3"><a href="https://education.github.community/" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Education community, experiment:site_header_dropdowns; group:dropdowns">Education community <span style="color: #959da5;">&#8599;</span></a></li>
+                      </ul>
+                    </div>
+                  </details>
+                </li>
+
+                <li class="HeaderMenu-item dropdown mr-5">
+                  <details class="details-expanded details-reset js-dropdown-details ">
+                    <summary class="HeaderMenu-target text-white">
+                      <div class="d-flex flex-items-baseline flex-justify-between">
+                        <span class="d-inline-block mr-1">Pricing</span>
+                        <span class="dropdown-caret"></span>
+                      </div>
+                    </summary>
+                    <div class="dropdown-menu dropdown-menu-s p-4 ml-n4 mt-3 mt-lg-2">
+                      <a href="/pricing" class="d-block d-lg-flex flex-items-center flex-justify-between f5 link-gray-dark text-bold mb-3" data-ga-click="(Logged out) Header, go to Pricing, experiment:site_header_dropdowns; group:dropdowns"><span>Pricing overview</span> <svg height="16" class="octicon octicon-chevron-right text-gray-dark" viewBox="0 0 8 16" version="1.1" width="8" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"/></svg></a>
+                      <hr class="border border-dashed my-3 d-none d-lg-block">
+                      <strong class="d-block f5 text-bold text-gray-dark mb-2">Plans</strong>
+                      <ul class="list-style-none f5">
+                        <li class="mb-2"><a href="/pricing/developer" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Developer, experiment:site_header_dropdowns; group:dropdowns">Developer</a></li>
+                        <li class="mb-2"><a href="/pricing/team" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Team, experiment:site_header_dropdowns; group:dropdowns">Team</a></li>
+                        <li class="mb-2"><a href="/pricing/business-hosted" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Business, experiment:site_header_dropdowns; group:dropdowns">Business</a></li>
+                        <li class="mb-3"><a href="/pricing#feature-comparison" class="link-gray d-block" data-ga-click="(Logged out) Header, go to Compare plans, experiment:site_header_dropdowns; group:dropdowns">Compare plans</a></li>
+                      </ul>
+                      <hr class="border border-dashed my-3 d-none d-lg-block">
+                      <ul class="list-style-none f5">
+                        <li class="mb-2"><a href="https://github.com/nonprofit" class="link-gray-dark" data-ga-click="(Logged out) Header, go to Nonprofits, experiment:site_header_dropdowns; group:dropdowns">Nonprofits</a></li>
+                        <li class="mb-2"><a href="https://education.github.com/discount_requests/new" class="link-gray-dark" data-ga-click="(Logged out) Header, go to Education, experiment:site_header_dropdowns; group:dropdowns">Education <span style="color: #959da5;">&#8599;</span></a></li>
+                      </ul>
+                    </div>
+                  </details>
+                </li>
+            </ul>
+          </nav>
+
+        <div class="d-flex flex-items-center">
+            <div class="d-flex mr-3 flex-items-center">
+              <div class="header-search scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="search combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="true"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="26712042" data-scoped-search-url="/AgriCraft/AgriCraft/search" data-unscoped-search-url="/search" action="/AgriCraft/AgriCraft/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=wnRXWKwXI6ldj9G6zfKUAe5Fnya+X/gRbXyem7K7fjB3d+Lc9YcsIxJ5m7G8ABHEqVu9g9Gk6TZiW//HrH+mfA=="
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://assets-cdn.github.com/images/search-shortcut-hint.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              <ul class="d-none js-jump-to-suggestions-template-container">
+                <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item">
+                  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center p-2 jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open" href="">
+                    <div class="jump-to-octicon js-jump-to-octicon mr-2 text-center d-none"></div>
+                    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar" alt="" aria-label="Team" src="" width="28" height="28">
+
+                    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+                    </div>
+
+                    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+                      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+                        In this repository
+                      </span>
+                      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+                        All GitHub
+                      </span>
+                      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+
+                    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+                      Jump to
+                      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+                  </a>
+                </li>
+                <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-repo-octicon-template" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+                <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-project-octicon-template" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+                <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-search-octicon-template" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+              </ul>
+              <ul class="d-none js-jump-to-no-results-template-container">
+                <li class="d-flex flex-justify-center flex-items-center p-3 f5 d-none">
+                  <span class="text-gray">No suggested jump to results</span>
+                </li>
+              </ul>
+
+              <ul id="jump-to-results" class="js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container" >
+                <li class="d-flex flex-justify-center flex-items-center p-0 f5">
+                  <img src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+                </li>
+              </ul>
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+            </div>
+
+          <a class="HeaderMenu-target text-white no-underline mr-3" href="/login?return_to=%2FAgriCraft%2FAgriCraft%2Fissues" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in; experiment:site_header_dropdowns; group:dropdowns">Sign&nbsp;in</a>
+            <a class="HeaderMenu-target d-inline-block text-white no-underline border border-gray-dark rounded-2 px-2 py-1" href="/join" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up; experiment:site_header_dropdowns; group:dropdowns">Sign&nbsp;up</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+
+
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+  
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+      <a href="/login?return_to=%2FAgriCraft%2FAgriCraft"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+    Watch
+  </a>
+  <a class="social-count" href="/AgriCraft/AgriCraft/watchers"
+     aria-label="45 users are watching this repository">
+    45
+  </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2FAgriCraft%2FAgriCraft"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/AgriCraft/AgriCraft/stargazers"
+      aria-label="130 users starred this repository">
+      130
+    </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2FAgriCraft%2FAgriCraft"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-s"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+        Fork
+      </a>
+
+    <a href="/AgriCraft/AgriCraft/network/members" class="social-count"
+       aria-label="71 users forked this repository">
+      71
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/AgriCraft">AgriCraft</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/AgriCraft/AgriCraft">AgriCraft</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /AgriCraft/AgriCraft" href="/AgriCraft/AgriCraft">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item selected reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /AgriCraft/AgriCraft/issues" href="/AgriCraft/AgriCraft/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">36</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /AgriCraft/AgriCraft/pulls" href="/AgriCraft/AgriCraft/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">2</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /AgriCraft/AgriCraft/projects" href="/AgriCraft/AgriCraft/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /AgriCraft/AgriCraft/wiki" href="/AgriCraft/AgriCraft/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /AgriCraft/AgriCraft/pulse" href="/AgriCraft/AgriCraft/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <div class="issues-listing" data-pjax>
+    
+
+
+
+  <div class="subnav" data-pjax>
+          
+<details class="details-reset details-overlay details-overlay-dark float-right" >
+  <summary class="btn btn-primary" aria-haspopup="dialog" data-ga-click="Issues, create new issue, view:issue_show location:issue_header style:button logged_in:false">
+    
+    New issue
+  </summary>
+  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast overflow-auto" aria-label="Sign up for GitHub">
+    <button class="position-absolute p-4 right-0 btn-link muted-link" type="button" aria-label="Close dialog" data-close-dialog>
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    <div class="p-4 d-flex flex-column">
+            <div class="mt-3 mb-2 text-center">
+  <svg height="60" class="octicon octicon-comment-discussion text-blue" viewBox="0 0 16 16" version="1.1" width="60" aria-hidden="true"><path fill-rule="evenodd" d="M15 1H6c-.55 0-1 .45-1 1v2H1c-.55 0-1 .45-1 1v6c0 .55.45 1 1 1h1v3l3-3h4c.55 0 1-.45 1-1V9h1l3 3V9h1c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zM9 11H4.5L3 12.5V11H1V5h4v3c0 .55.45 1 1 1h3v2zm6-3h-2v1.5L11.5 8H6V2h9v6z"/></svg>
+</div>
+
+<div class="px-4">
+  <p class="text-center mb-4">
+  <strong>Have a question about this project?</strong> Sign up for a free GitHub account to open an issue and contact its maintainers and the community.
+  </p>
+
+  <form class="js-signup-form" autocomplete="off" action="/join?return_to=%2FAgriCraft%2FAgriCraft%2Fissues%2Fnew" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vKxWcQ+B7EgBfholrUPlGfpuksA5rEZYTmedk5VDaP8z5l7zZKEi56rw5OLSCTkDEo9JVAOkqdtEKJICrjnhOg==" />    <auto-check src="/signup_check/username" csrf="a+GUw62eJlNFP5VFWACncDroqxpu1H/tnjBOcUr/OXdCp4FJx3KP3sA7fCvLPxKJiRHUYfrhYKo57LAILcoP1Q==">
+      <dl class="form-group"><dt class="input-label"><label name="user[login]" autocapitalize="off" autofocus="autofocus" for="user_login_issues">Pick a username</label></dt><dd><input name="user[login]" autocapitalize="off" autofocus="autofocus" class="form-control" type="text" id="user_login_issues" /></dd></dl>
+    </auto-check>
+
+    <auto-check src="/signup_check/email" csrf="EmL3ETV+tI4/7qt4avcivrYbVbX6fHqaptbaQ6yUjt9A3A6gfhE1HUSwnevl5Fxs6/7jS2a4BxsUxgpWAiT82w==">
+      <dl class="form-group"><dt class="input-label"><label name="user[email]" autocapitalize="off" for="user_email_issues">Email Address</label></dt><dd><input name="user[email]" autocapitalize="off" class="form-control" type="text" id="user_email_issues" /></dd></dl>
+    </auto-check>
+
+    <dl class="form-group"><dt class="input-label"><label name="user[password]" for="user_password_issues">Password</label></dt><dd><input name="user[password]" class="form-control" type="password" id="user_password_issues" /></dd></dl>
+
+    <input type="hidden" name="source" class="js-signup-source" value="modal-issues">
+    <input type="text" name="required_field_6098" id="required_field_6098" hidden="hidden" class="form-control" />
+<input type="hidden" name="timestamp" value="1535552304284" class="form-control" />
+<input type="hidden" name="timestamp_secret" value="bf5ea2222e88ec60e327ffcec250c7b1933b379581c3b4f3c914557ccf7cfb52" class="form-control" />
+
+
+    <button class="btn btn-primary mt-2 btn-block" type="submit" data-ga-click="(Logged out) New issue modal, clicked Sign up, text:sign-up">Sign up for GitHub</button>
+</form>
+  <p class="mt-4 text-gray text-center">By clicking &ldquo;Sign up for GitHub&rdquo;, you agree to our <a href="https://help.github.com/terms" target="_blank">terms of service</a> and
+  <a href="https://help.github.com/privacy" target="_blank">privacy statement</a>. We’ll occasionally send you account related emails.</p>
+  <p class="mt-4 text-gray text-center">Already on GitHub? <a href="/login?return_to=%2FAgriCraft%2FAgriCraft%2Fissues%2Fnew" data-ga-click="(Logged out) New issue modal, clicked Sign in, text:sign-in">Sign in</a> to your account</p>
+</div>
+
+</div>
+  </details-dialog>
+</details>
+
+  <div class="float-left pr-2" role="search">
+
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="subnav-search float-left" data-pjax="true" action="/AgriCraft/AgriCraft/issues" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <input type="text" name="q" id="js-issues-search" value="is:issue is:open " class="form-control form-control subnav-search-input input-contrast" placeholder="Search all issues" aria-label="Search all issues" data-hotkey="Control+/,Meta+/" />
+      <svg class="octicon octicon-search subnav-search-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+</form>  </div>
+
+  
+<div class="subnav-links float-left" role="navigation">
+  <a class="js-selected-navigation-item subnav-item" data-selected-links="repo_labels /AgriCraft/AgriCraft/labels" href="/AgriCraft/AgriCraft/labels">Labels</a>
+  <a class="js-selected-navigation-item subnav-item" data-selected-links="repo_milestones /AgriCraft/AgriCraft/milestones" href="/AgriCraft/AgriCraft/milestones">Milestones</a>
+</div>
+
+</div>
+
+
+
+    <div class="table-list-header" id="js-issues-toolbar">
+
+  <div class="table-list-filters">
+    
+<div class="table-list-header-toggle states float-left pl-3">
+    <a href="/AgriCraft/AgriCraft/issues?q=is%3Aopen+is%3Aissue" class="btn-link selected">
+      <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+      36 Open
+    </a>
+
+    <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aclosed" class="btn-link ">
+      <svg class="octicon octicon-check" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+      943 Closed
+    </a>
+</div>
+
+
+      <div class="table-list-header-toggle float-right">
+        <details class="details-reset details-overlay float-left select-menu">
+  <summary class="btn-link select-menu-button" data-hotkey="u">
+    Author
+  </summary>
+  <details-menu class="select-menu-modal position-absolute right-0" style="z-index: 99;" src="/AgriCraft/AgriCraft/issues/show_menu_content?partial=issues%2Ffilters%2Fauthors_content&amp;q=is%3Aissue+is%3Aopen">
+    <div class="select-menu-header">
+      <span class="select-menu-title">Filter by author</span>
+    </div>
+    <include-fragment class="select-menu-loading-overlay anim-pulse" aria-label="Loading">
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+    </include-fragment>
+  </details-menu>
+</details>
+
+        <div class="float-left select-menu label-select-menu js-menu-container js-select-menu js-load-contents"
+     data-contents-url="/AgriCraft/AgriCraft/issues/show_menu_content?partial=issues%2Ffilters%2Flabels_content&amp;q=is%3Aissue+is%3Aopen">
+  <button class="btn-link select-menu-button js-menu-target" type="button" aria-haspopup="true" aria-expanded="false" data-hotkey="l">
+    Labels
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container">
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        <span class="select-menu-title">Filter by label</span>
+      </div>
+
+      <div class="js-select-menu-deferred-content"></div>
+      <div class="select-menu-loading-overlay anim-pulse">
+        <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+      </div>
+    </div>
+  </div>
+</div>
+
+          
+<div class="float-left select-menu js-menu-container js-select-menu js-load-contents"
+     data-contents-url="/AgriCraft/AgriCraft/issues/show_menu_content?partial=issues%2Ffilters%2Fprojects_content&amp;pulls_only=false&amp;q=is%3Aissue+is%3Aopen">
+  <button class="btn-link select-menu-button js-menu-target" type="button" aria-haspopup="true" aria-expanded="false" data-hotkey="m">
+  Projects
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container">
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        <span class="select-menu-title">Filter by project</span>
+      </div>
+
+      <div class="js-select-menu-deferred-content"></div>
+      <div class="select-menu-loading-overlay anim-pulse">
+        <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+<div class="float-left select-menu js-menu-container js-select-menu js-load-contents"
+     data-contents-url="/AgriCraft/AgriCraft/issues/show_menu_content?partial=issues%2Ffilters%2Fmilestones_content&amp;q=is%3Aissue+is%3Aopen">
+  <button class="btn-link select-menu-button js-menu-target" type="button" aria-haspopup="true" aria-expanded="false" data-hotkey="m">
+    Milestones
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container">
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        <span class="select-menu-title">Filter by milestone</span>
+      </div>
+
+      <div class="js-select-menu-deferred-content"></div>
+      <div class="select-menu-loading-overlay anim-pulse">
+        <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+      </div>
+    </div>
+  </div>
+</div>
+
+        <details class="details-reset details-overlay float-left select-menu">
+  <summary class="btn-link select-menu-button" data-hotkey="a">
+    Assignee
+  </summary>
+  <details-menu class="select-menu-modal position-absolute right-0" style="z-index: 99;" src="/AgriCraft/AgriCraft/issues/show_menu_content?partial=issues%2Ffilters%2Fassigns_content&amp;q=is%3Aissue+is%3Aopen">
+    <div class="select-menu-header">
+      <span class="select-menu-title">Filter by who’s assigned</span>
+    </div>
+    <include-fragment class="select-menu-loading-overlay anim-pulse" aria-label="Loading">
+      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
+    </include-fragment>
+  </details-menu>
+</details>
+
+        
+<details class="details-reset details-overlay select-menu float-left js-dropdown-details js-select-menu">
+  <summary class="btn-link select-menu-button" aria-haspopup="true">
+    Sort<span class="sort-label"></span>
+  </summary>
+  <div class="select-menu-modal position-absolute right-0 js-navigation-container" role="menu" style="z-index: 1000;" aria-label="Sort by">
+    <div class="select-menu-header">
+      <span class="select-menu-title">Sort by</span>
+    </div>
+    <div class="select-menu-list">
+        <a href="/AgriCraft/AgriCraft/issues?q=is%3Aopen+is%3Aissue"
+           class="select-menu-item js-navigation-item js-navigation-open selected"
+           aria-checked="true"
+           role="menuitemradio">
+          <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+          <div class="select-menu-item-text">Newest</div>
+        </a>
+        <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc"
+           class="select-menu-item js-navigation-item js-navigation-open "
+           
+           role="menuitemradio">
+          <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+          <div class="select-menu-item-text">Oldest</div>
+        </a>
+        <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc"
+           class="select-menu-item js-navigation-item js-navigation-open "
+           
+           role="menuitemradio">
+          <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+          <div class="select-menu-item-text">Most commented</div>
+        </a>
+        <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-asc"
+           class="select-menu-item js-navigation-item js-navigation-open "
+           
+           role="menuitemradio">
+          <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+          <div class="select-menu-item-text">Least commented</div>
+        </a>
+        <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+           class="select-menu-item js-navigation-item js-navigation-open "
+           
+           role="menuitemradio">
+          <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+          <div class="select-menu-item-text">Recently updated</div>
+        </a>
+        <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-asc"
+           class="select-menu-item js-navigation-item js-navigation-open "
+           
+           role="menuitemradio">
+          <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+          <div class="select-menu-item-text">Least recently updated</div>
+        </a>
+
+      <div class="select-menu-item select-menu-item-parent js-navigation-item "
+           
+           role="menuitemradio">
+        <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+        <div class="select-menu-item-text">Most reactions</div>
+
+          <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc" class="reaction-sort-item js-navigation-item ">
+            <g-emoji alias="+1" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png" class="emoji">👍</g-emoji>
+          </a>
+          <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions--1-desc" class="reaction-sort-item js-navigation-item ">
+            <g-emoji alias="-1" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44e.png" class="emoji">👎</g-emoji>
+          </a>
+          <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-smile-desc" class="reaction-sort-item js-navigation-item ">
+            <g-emoji alias="smile" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png" class="emoji">😄</g-emoji>
+          </a>
+          <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-tada-desc" class="reaction-sort-item js-navigation-item ">
+            <g-emoji alias="tada" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png" class="emoji">🎉</g-emoji>
+          </a>
+          <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-thinking_face-desc" class="reaction-sort-item js-navigation-item ">
+            <g-emoji alias="thinking_face" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f615.png" class="emoji">😕</g-emoji>
+          </a>
+          <a href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-heart-desc" class="reaction-sort-item js-navigation-item ">
+            <g-emoji alias="heart" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" class="emoji">❤️</g-emoji>
+          </a>
+      </div>
+    </div>
+  </div>
+</details>
+
+      </div>
+  </div>
+
+</div>
+
+
+    <div class="border-right border-bottom border-left">
+      <ul class="js-navigation-container js-active-navigation-container">
+          
+<li id="issue_1177" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="354886954">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1177" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        [Question] com.infinityraider.infinitylib.handler.ConfigurationHandler does not exist on master branch of InfinityLib
+      </a>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1177
+            opened <relative-time datetime="2018-08-28T20:16:24Z">Aug 28, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by WolfieWaffle" data-hovercard-user-id="8770485" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AWolfieWaffle">WolfieWaffle</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1175" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="354112535">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1175" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Cant place cross sticks for mutating seeds in Departed
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #eb6420; color: #000000" title="research" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch">research</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1175
+            opened <relative-time datetime="2018-08-26T17:28:48Z">Aug 26, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by luckyjiant" data-hovercard-user-id="42719593" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3Aluckyjiant">luckyjiant</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">0 of 2</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 0%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1175" class="muted-link" aria-label="6 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">6</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1172" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="348766997">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1172" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Inconsistant sprinklers. Works but only for a few seconds
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #eb6420; color: #000000" title="research" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch">research</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1172
+            opened <relative-time datetime="2018-08-08T15:04:29Z">Aug 8, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by Kupperu" data-hovercard-user-id="5459026" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AKupperu">Kupperu</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">3 of 6</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 50%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1170" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="342966723">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1170" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Client crash - ALREADY CONSTRUCTING VERTICES item.item.agricraft:agri_seed
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fc2929; color: #000000" title="bug" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Abug">bug</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1170
+            opened <relative-time datetime="2018-07-20T04:09:00Z">Jul 20, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by ProsperCraft" data-hovercard-user-id="4427684" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AProsperCraft">ProsperCraft</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">0 of 2</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 0%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1170" class="muted-link" aria-label="3 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">3</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1154" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="337236443">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1154" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Disabling vanilla planting prevents cactus from being placed on the ground
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #eb6420; color: #000000" title="research" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch">research</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1154
+            opened <relative-time datetime="2018-06-30T19:09:30Z">Jun 30, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by Crowfooted" data-hovercard-user-id="8837459" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ACrowfooted">Crowfooted</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1143" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="325099618">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1143" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Overtake setting not respected
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fef2c0; color: #000000" title="todo" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Atodo">todo</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1143
+            opened <relative-time datetime="2018-05-22T00:14:21Z">May 22, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by mpevner" data-hovercard-user-id="644116" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3Ampevner">mpevner</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1143" class="muted-link" aria-label="1 comment">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">1</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1127" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="314492561">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1127" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        [Compatibility Request] Serene Seasons
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #f9d0c4; color: #000000" title="compat" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Acompat">compat</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1127
+            opened <relative-time datetime="2018-04-16T03:54:21Z">Apr 16, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by ddelaparte" data-hovercard-user-id="1416714" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3Addelaparte">ddelaparte</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1127" class="muted-link" aria-label="5 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">5</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1126" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="314412522">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1126" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        &quot;Valid Parents&quot; config setting has no effect following previous refactoring
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #eb6420; color: #000000" title="research" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch">research</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fef2c0; color: #000000" title="todo" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Atodo">todo</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1126
+            opened <relative-time datetime="2018-04-15T12:44:04Z">Apr 15, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by svj0hn" data-hovercard-user-id="9798920" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3Asvj0hn">svj0hn</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">2 of 4</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 50%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to InfinityRaider">
+
+              <a class="avatar" aria-label="InfinityRaider’s assigned issues" href="/AgriCraft/AgriCraft/issues?q=assignee%3AInfinityRaider+is%3Aopen">
+                <img class="from-avatar" src="https://avatars2.githubusercontent.com/u/8151219?s=40&amp;v=4" width="20" height="20" alt="@InfinityRaider" />
+</a>          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1126" class="muted-link" aria-label="1 comment">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">1</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1125" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="314319464">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1125" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        [1.12.2] [Suggestion] Add support for the Farming Station
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #f9d0c4; color: #000000" title="compat" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Acompat">compat</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fef2c0; color: #000000" title="todo" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Atodo">todo</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1125
+            opened <relative-time datetime="2018-04-14T10:49:17Z">Apr 14, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by EmosewaPixel" data-hovercard-user-id="25333164" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AEmosewaPixel">EmosewaPixel</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1125" class="muted-link" aria-label="2 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">2</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1106" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="305701187">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1106" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        [1.12.2] [Compatibility Issue] Free Aurigold Seed
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top tooltipped tooltipped-s" style="background-color: #eeeeee; color: #000000" aria-label="Waiting for reply on issue, to determine if issue is valid." href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3A%22Awaiting+reply%22">Awaiting reply</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1106
+            opened <relative-time datetime="2018-03-15T20:06:51Z">Mar 15, 2018</relative-time> by
+            <a class="muted-link" title="Open issues created by Liinche" data-hovercard-user-id="25283037" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ALiinche">Liinche</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">3 of 3</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 100%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1106" class="muted-link" aria-label="7 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">7</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1087" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="281148454">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1087" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Machine Request
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="request" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Arequest">request</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1087
+            opened <relative-time datetime="2017-12-11T20:00:26Z">Dec 11, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by Colton-Slayden" data-hovercard-user-id="32550284" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AColton-Slayden">Colton-Slayden</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">0 of 6</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 0%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1087" class="muted-link" aria-label="3 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">3</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1080" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="266296830">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1080" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Fire Forge events for crops
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="request" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Arequest">request</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fef2c0; color: #000000" title="todo" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Atodo">todo</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1080
+            opened <relative-time datetime="2017-10-17T22:13:26Z">Oct 17, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by CodesCubesAndCrashes" data-hovercard-user-id="28678248" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ACodesCubesAndCrashes">CodesCubesAndCrashes</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">0 of 3</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 0%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to CodesCubesAndCrashes">
+
+              <a class="avatar" aria-label="CodesCubesAndCrashes’s assigned issues" href="/AgriCraft/AgriCraft/issues?q=assignee%3ACodesCubesAndCrashes+is%3Aopen">
+                <img class="from-avatar" src="https://avatars3.githubusercontent.com/u/28678248?s=40&amp;v=4" width="20" height="20" alt="@CodesCubesAndCrashes" />
+</a>          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1080" class="muted-link" aria-label="2 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">2</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1079" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="266054335">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1079" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Client thread can not get correct light levels at night
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fc2929; color: #000000" title="bug" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Abug">bug</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #159818; color: #000000" title="help wanted" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">help wanted</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1079
+            opened <relative-time datetime="2017-10-17T09:30:25Z">Oct 17, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by CodesCubesAndCrashes" data-hovercard-user-id="28678248" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ACodesCubesAndCrashes">CodesCubesAndCrashes</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to CodesCubesAndCrashes">
+
+              <a class="avatar" aria-label="CodesCubesAndCrashes’s assigned issues" href="/AgriCraft/AgriCraft/issues?q=assignee%3ACodesCubesAndCrashes+is%3Aopen">
+                <img class="from-avatar" src="https://avatars3.githubusercontent.com/u/28678248?s=40&amp;v=4" width="20" height="20" alt="@CodesCubesAndCrashes" />
+</a>          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1079" class="muted-link" aria-label="2 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">2</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1059" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="248165031">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1059" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        how to translate (localisation) of plant-name and seed-name?
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1059
+            opened <relative-time datetime="2017-08-05T06:20:57Z">Aug 5, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by MBelhardi" data-hovercard-user-id="30601633" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AMBelhardi">MBelhardi</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1059" class="muted-link" aria-label="1 comment">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">1</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1058" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="248135711">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1058" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Model/texture of the sprinkler disappears
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #eb6420; color: #000000" title="research" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch">research</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1058
+            opened <relative-time datetime="2017-08-04T22:58:54Z">Aug 4, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by MBelhardi" data-hovercard-user-id="30601633" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AMBelhardi">MBelhardi</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1058" class="muted-link" aria-label="9 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">9</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1053" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="246819170">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1053" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        CustomStuff Blocks &amp; Items Not Found By AgriCraft
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #f9d0c4; color: #000000" title="compat" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Acompat">compat</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #eb6420; color: #000000" title="research" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch">research</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1053
+            opened <relative-time datetime="2017-07-31T16:55:25Z">Jul 31, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by MBelhardi" data-hovercard-user-id="30601633" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AMBelhardi">MBelhardi</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1053" class="muted-link" aria-label="1 comment">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">1</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1051" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="246023376">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1051" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Biomesoplenty turnip seeds problem
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #FFCCFF; color: #000000" title="json" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Ajson">json</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fef2c0; color: #000000" title="todo" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Atodo">todo</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1051
+            opened <relative-time datetime="2017-07-27T12:28:27Z">Jul 27, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by winnetrie83" data-hovercard-user-id="29025144" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3Awinnetrie83">winnetrie83</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1051" class="muted-link" aria-label="6 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">6</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_1032" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="240436685">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/1032" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Re-add MFR support
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #f9d0c4; color: #000000" title="compat" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Acompat">compat</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="request" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Arequest">request</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #1032
+            opened <relative-time datetime="2017-07-04T14:28:01Z">Jul 4, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by InjuredWolf" data-hovercard-user-id="10350531" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AInjuredWolf">InjuredWolf</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/1032" class="muted-link" aria-label="2 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">2</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_980" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="233371814">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/980" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Disable Vanilla Farming does not block Mystical agriculture planting.
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fc2929; color: #000000" title="bug" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Abug">bug</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #f9d0c4; color: #000000" title="compat" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Acompat">compat</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #980
+            opened <relative-time datetime="2017-06-03T14:11:25Z">Jun 3, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by Dilnu" data-hovercard-user-id="408929" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ADilnu">Dilnu</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/980" class="muted-link" aria-label="4 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">4</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_966" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="231805117">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/966" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Compatibility with Sponge
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #f9d0c4; color: #000000" title="compat" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Acompat">compat</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #eb6420; color: #000000" title="research" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aresearch">research</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #966
+            opened <relative-time datetime="2017-05-27T14:34:58Z">May 27, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by RedTech64" data-hovercard-user-id="12768272" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ARedTech64">RedTech64</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/966" class="muted-link" aria-label="1 comment">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">1</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_933" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="226800570">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/933" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Recipes takes too much space on JEI
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #f9d0c4; color: #000000" title="compat" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Acompat">compat</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="request" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Arequest">request</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #933
+            opened <relative-time datetime="2017-05-06T20:15:29Z">May 6, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by ArukaAlter" data-hovercard-user-id="8659060" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3AArukaAlter">ArukaAlter</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/933" class="muted-link" aria-label="11 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">11</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_852" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="211873211">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/852" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        [Request] Hardcore Options
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="request" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Arequest">request</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #852
+            opened <relative-time datetime="2017-03-04T11:12:21Z">Mar 4, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by bookerthegeek" data-hovercard-user-id="3230175" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3Abookerthegeek">bookerthegeek</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/852" class="muted-link" aria-label="3 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">3</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_794" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="200786814">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/794" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        JSON Mod Sensitivity
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #FFCCFF; color: #000000" title="json" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Ajson">json</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fef2c0; color: #000000" title="todo" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Atodo">todo</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #794
+            opened <relative-time datetime="2017-01-14T07:06:34Z">Jan 14, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by RlonRyan" data-hovercard-user-id="3212966" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ARlonRyan">RlonRyan</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+              <a class="milestone-link muted-link css-truncate tooltipped tooltipped-n" aria-label="2.1.0" href="/AgriCraft/AgriCraft/milestone/6">
+                <svg aria-label="Milestone" class="octicon octicon-milestone" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M8 2H6V0h2v2zm4 5H2c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h10l2 2-2 2zM8 4H6v2h2V4zM6 16h2V8H6v8z"/></svg>
+                <span class="css-truncate-target">
+                  2.1.0
+                </span>
+              </a>
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to RlonRyan">
+
+              <a class="avatar" aria-label="RlonRyan’s assigned issues" href="/AgriCraft/AgriCraft/issues?q=assignee%3ARlonRyan+is%3Aopen">
+                <img class="from-avatar" src="https://avatars3.githubusercontent.com/u/3212966?s=40&amp;v=4" width="20" height="20" alt="@RlonRyan" />
+</a>          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/794" class="muted-link" aria-label="2 comments">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">2</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_793" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="200786396">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/793" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        Missing Rendering Modes
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #159818; color: #000000" title="help wanted" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">help wanted</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #fef2c0; color: #000000" title="todo" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Atodo">todo</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #793
+            opened <relative-time datetime="2017-01-14T06:54:57Z">Jan 14, 2017</relative-time> by
+            <a class="muted-link" title="Open issues created by RlonRyan" data-hovercard-user-id="3212966" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ARlonRyan">RlonRyan</a>
+            
+        </span>
+
+
+
+        <span class="issue-meta-section task-progress ml-2"><svg class="octicon octicon-checklist" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 0 0 0 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z"/></svg><span class="task-progress-counts">0 of 3</span><span class="progress-bar v-align-middle"><span class="progress" style="width: 0%"></span></span></span>
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+              <a class="milestone-link muted-link css-truncate tooltipped tooltipped-n" aria-label="2.1.0" href="/AgriCraft/AgriCraft/milestone/6">
+                <svg aria-label="Milestone" class="octicon octicon-milestone" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M8 2H6V0h2v2zm4 5H2c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h10l2 2-2 2zM8 4H6v2h2V4zM6 16h2V8H6v8z"/></svg>
+                <span class="css-truncate-target">
+                  2.1.0
+                </span>
+              </a>
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to InfinityRaider">
+
+              <a class="avatar" aria-label="InfinityRaider’s assigned issues" href="/AgriCraft/AgriCraft/issues?q=assignee%3AInfinityRaider+is%3Aopen">
+                <img class="from-avatar" src="https://avatars2.githubusercontent.com/u/8151219?s=40&amp;v=4" width="20" height="20" alt="@InfinityRaider" />
+</a>          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/793" class="muted-link" aria-label="1 comment">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">1</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+          
+<li id="issue_751" class="Box-row Box-row--focus-gray p-0 js-navigation-item js-issue-row" data-id="196319364">
+  <div class="d-table table-fixed width-full Box-row--drag-hide position-relative">
+
+      <!-- drag handles -->
+
+      <!-- checkbox and issue open icon -->
+
+
+        <div class="float-left pt-2 pl-3">
+          <span class="tooltipped tooltipped-n" aria-label="Open issue">
+            <svg class="octicon octicon-issue-opened open" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+          </span>
+        </div>
+
+    <!-- Issue title column -->
+    <div class="float-left col-9 lh-condensed p-2">
+
+      <a href="/AgriCraft/AgriCraft/issues/751" class="link-gray-dark v-align-middle no-underline h4 js-navigation-open">
+        JSON Crop Actions
+      </a>
+        <span class="labels lh-default">
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #bfdadc; color: #000000" title="enhancement" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement">enhancement</a>
+            <a class="d-inline-block IssueLabel v-align-text-top" style="background-color: #FFCCFF; color: #000000" title="json" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+label%3Ajson">json</a>
+        </span>
+      <div class="mt-1 text-small text-gray">
+        <span class="opened-by">
+          #751
+            opened <relative-time datetime="2016-12-19T02:34:51Z">Dec 19, 2016</relative-time> by
+            <a class="muted-link" title="Open issues created by RlonRyan" data-hovercard-user-id="3212966" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AgriCraft/AgriCraft/issues?q=is%3Aissue+is%3Aopen+author%3ARlonRyan">RlonRyan</a>
+            
+        </span>
+
+
+
+        
+
+          <span class="issue-meta-section css-truncate issue-milestone ml-2">
+              <a class="milestone-link muted-link css-truncate tooltipped tooltipped-n" aria-label="2.2.0" href="/AgriCraft/AgriCraft/milestone/7">
+                <svg aria-label="Milestone" class="octicon octicon-milestone" viewBox="0 0 14 16" version="1.1" width="14" height="16" role="img"><path fill-rule="evenodd" d="M8 2H6V0h2v2zm4 5H2c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h10l2 2-2 2zM8 4H6v2h2V4zM6 16h2V8H6v8z"/></svg>
+                <span class="css-truncate-target">
+                  2.2.0
+                </span>
+              </a>
+          </span>
+      </div>
+    </div>
+
+
+    <div class="float-right col-2">
+      <div class="float-left col-7 pt-2 pr-3 text-right">
+
+        <div class="AvatarStack AvatarStack--right ">
+          <div class="AvatarStack-body tooltipped tooltipped-sw tooltipped-multiline tooltipped-align-right-1 mt-1"
+               aria-label="Assigned to ">
+          </div>
+        </div>
+      </div>
+
+      <div class="float-right col-5 no-wrap pt-2 pr-3 text-right">
+        <a href="/AgriCraft/AgriCraft/issues/751" class="muted-link" aria-label="1 comment">
+          <svg class="octicon octicon-comment v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 1H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h2v3.5L7.5 11H14c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1zm0 9H7l-2 2v-2H2V2h12v8z"/></svg>
+          <span class="text-small text-bold">1</span>
+        </a>
+      </div>
+    </div>
+
+  </div>
+</li>
+
+      </ul>
+    </div>
+
+  <div class="paginate-container">
+
+      <div class="pagination"><span class="previous_page disabled">Previous</span> <em class="current" data-total-pages="2">1</em> <a rel="next" href="/AgriCraft/AgriCraft/issues?page=2&amp;q=is%3Aissue+is%3Aopen">2</a> <a class="next_page" rel="next" href="/AgriCraft/AgriCraft/issues?page=2&amp;q=is%3Aissue+is%3Aopen">Next</a></div>
+  </div>
+
+  <div class="protip">
+    <svg class="octicon octicon-light-bulb text-gray" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"/></svg>
+    <strong>ProTip!</strong>
+    Mix and match filters to narrow down what you’re looking for.
+  </div>
+
+  </div>
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+        
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.43570s from unicorn-79859f475-hzkb7">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" integrity="sha512-RJ1ufbxsSbKjRCyYvinsPNKvTBvcvvKUvEOJ8g+GjtWI5SuRr+QPBlZcvRDws4H9YwAgdQFcGxfL8UbwEfdI7A==" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-daf14de28fadf1e2bc40d100cb773e2b.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-MQP/nsaPNRW5M9/ODnUMsjF/kGCncvWuJk2+5nloOnGGpTMi5XxTLIht4oIyOiTE1eYOfHbX4CFVnc6QXpuWtQ==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-778adb2c3d5bea3712eadb76a1dd7bdc.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-LrZBdQyzqxKDImOu47/I9c6TDuCnMMdy2PAaizWWBYkIGJXshudE2VkhQME9eVgjdd61j6CK7DeIlGymNKuh/g==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-f6e5f43b2c596ec20a37b5ff7ae371ab.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark" open>
+    <summary aria-haspopup="dialog" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast">
+      <button class="m-3 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
