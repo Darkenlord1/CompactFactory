@@ -1,0 +1,1 @@
+mods.actuallyadditions.Empowerer.addRecipe(<snad:snad>, <minecraft:sand>, <mysticalagriculture:mystical_fertilizer>, <mysticalagriculture:mystical_fertilizer>, <thermalfoundation:fertilizer:2>, <farmingforblockheads:fertilizer>, 1000, 1000, [0.5, 0.5, 0.2]);
