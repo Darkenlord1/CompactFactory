@@ -1,4 +1,0 @@
-mods.jei.JEI.hide(<enderio:item_travel_staff>);
-
-recipes.removeShaped(<enderio:block_reservoir>);
-//recipes.addShaped(<>)
